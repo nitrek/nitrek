@@ -1,4 +1,4 @@
-## <h2 align="center"> Hello there!  <img src="https://github.com/nitrek/blob/master/hey.gif" width="32px"> </h2>
+## <h2 align="center"> Hello there!  <img src="https://raw.githubusercontent.com/nitrek/nitrek/master/hey.gif" width="32px"> </h2>
 <h2 align="center">My name is Nitesh Singh. 👋🤓😉💻</h2>
 
 
