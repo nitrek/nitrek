@@ -1,6 +1,7 @@
 ## <h2 align="center"> Hello there!  <img src="https://raw.githubusercontent.com/nitrek/nitrek/master/hey.gif" width="32px"> </h2>
 <h2 align="center">My name is Nitesh Singh. 👋🤓😉💻</h2>
 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/nitrek/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/nitrek/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/nitrek/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 ### 📫 Where to find me
 [![Twitter Badge](https://img.shields.io/badge/-@niteshsingh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/niteshsingh)](https://twitter.com/niteshsingh) 
