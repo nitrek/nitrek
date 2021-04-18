@@ -1,6 +1,7 @@
 ## <h2 align="center"> Hello there!  <img src="https://raw.githubusercontent.com/nitrek/nitrek/master/hey.gif" width="32px"> </h2>
 <h2 align="center">My name is Nitesh Singh. 👋🤓😉💻</h2>
 
+[![HitCount](http://hits.dwyl.com/nitrek/nitrek.svg)](http://hits.dwyl.com/nitrek/nitrek)
 
 ### 📫 Where to find me
 [![Twitter Badge](https://img.shields.io/badge/-@niteshsingh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/niteshsingh)](https://twitter.com/niteshsingh) 
