@@ -12,7 +12,7 @@
 
 * 🌱  I’m currently learning Machine Learning and Chess ✨ 🔭.
 * 💬  Ask me about blockchain( public , private ) , finance , python or AI
-* 📫  How to know me: https://nitrek.github.io/aboutme
+* 📫  How to know me: http://git.io/nitesh
 * 😄  Pronouns: He/Him 🙍🏻‍♂️
 * ⚡  Fun fact: I like learn about facts about all things !!
 
