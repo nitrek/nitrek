@@ -1,7 +1,6 @@
 ## <h2 align="center"> Hello there!  <img src="https://raw.githubusercontent.com/nitrek/nitrek/master/hey.gif" width="32px"> </h2>
 <h2 align="center">My name is Nitesh Singh. 👋🤓😉💻</h2>
 
-[![HitCount](http://hits.dwyl.com/nitrek/nitrek.svg)](http://hits.dwyl.com/nitrek/nitrek)
 
 ### 📫 Where to find me
 [![Twitter Badge](https://img.shields.io/badge/-@niteshsingh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/niteshsingh)](https://twitter.com/niteshsingh) 
@@ -28,3 +27,4 @@ My e-resume link : https://nitrek.github.io/aboutme/
 When I'm not developing and building things, you can find me on Youtube,Coursera learning, writing an article, watching web seriers, daydreaming actionpacked self made dreams or on my laptop/phone scrolling reddit.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrek)
+[![HitCount](http://hits.dwyl.com/nitrek/nitrek.svg)](http://hits.dwyl.com/nitrek/nitrek)
