@@ -25,6 +25,6 @@ Keeping up with my passion for technology and innovation by developing Blockchai
 My e-resume link : https://nitrek.github.io/aboutme/ 
 
 When I'm not developing and building things, you can find me on Youtube,Coursera learning, writing an article, watching web seriers, daydreaming actionpacked self made dreams or on my laptop/phone scrolling reddit.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitrek&label=views&color=0e75b6&style=flat" alt="nitrek" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrek)
-[![HitCount](http://hits.dwyl.com/nitrek/nitrek.svg)](http://hits.dwyl.com/nitrek/nitrek)
