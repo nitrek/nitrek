@@ -14,7 +14,7 @@
 * 💬  Ask me about blockchain( public , private ) , finance , python or AI
 * 📫  How to know me: http://git.io/nitesh
 * 😄  Pronouns: He/Him 🙍🏻‍♂️
-* ⚡  Fun fact: I like learn about facts about all things !!
+* ⚡  Fun fact: I am curious and like to learn about facts about all things !!
 
 ## GitHub Stats 📊
 
